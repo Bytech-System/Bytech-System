@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Bytech System</h1>
 
-<!--
-**Bytech-System/Bytech-System** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 <strong>Empresa de Tecnologia focada em desenvolver soluções digitais personalizadas</strong> <br>
+🔧 <strong>Nosso objetivo é unir excelência técnica, visão estratégica a fim de alinhar as necessidades do negócio</strong> <br>
+🧠 <strong>Estudando programação, automação e soluções inteligentes </strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Vamos trocar ideia?
+
+Nos chame aqui pelo GitHub mesmo ou no [LinkedIn](https://www.linkedin.com/company/bytech-system/). 
+

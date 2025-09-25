@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Bytech System</h1>
 
 <p align="center">
-💻 <strong>Soluções digitais sob medida: sites, softwares e aplicativos</strong> <br>
-🔧 <strong>Foco em eficiência, escalabilidade e experiência do usuário</strong> <br>
+💻 <strong>Empresa de Tecnologia focada em desenvolver soluções digitais personalizadas</strong> <br>
+🔧 <strong>Unimos excelência técnica e visão estratégica para alinhar tecnologia às necessidades do negócio</strong> <br>
+🎯 <strong>Foco em eficiência, escalabilidade e experiência do usuário</strong> <br>
 🧠 <strong>Explorando programação, automação e inteligência aplicada</strong>
 </p>
 
